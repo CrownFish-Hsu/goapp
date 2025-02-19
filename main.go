@@ -5,7 +5,9 @@ import (
 )
 
 func main() {
-	demo.ShowHello()
+	// demo.ShowHello()
 
-	demo.TestVar()
+	// demo.TestVar()
+
+	demo.ShowGradeLevel()
 }
