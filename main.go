@@ -6,5 +6,6 @@ import (
 
 func main() {
 	demo.ShowHello()
+
 	demo.TestVar()
 }
