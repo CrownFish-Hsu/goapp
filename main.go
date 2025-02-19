@@ -9,5 +9,7 @@ func main() {
 
 	// demo.TestVar()
 
-	demo.ShowGradeLevel()
+	// demo.ShowGradeLevel()
+
+	demo.TestCalculator()
 }
