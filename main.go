@@ -11,5 +11,7 @@ func main() {
 
 	// demo.ShowGradeLevel()
 
-	demo.TestCalculator()
+	// demo.TestCalculator()
+
+	demo.TestDivide()
 }
