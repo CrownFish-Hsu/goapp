@@ -1,9 +1,5 @@
 package main
 
-import (
-	"example.com/app/demo"
-)
-
 func main() {
 	// demo.ShowHello()
 
@@ -13,5 +9,5 @@ func main() {
 
 	// demo.TestCalculator()
 
-	demo.TestDivide()
+	// demo.TestDivide()
 }
